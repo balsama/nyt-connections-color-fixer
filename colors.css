@@ -1,0 +1,14 @@
+.answer-banner.group-0, .nyt-emoji.group-0, .help-emoji.group-0 {
+    background-color: #cfe2f3 !important;
+}
+.answer-banner.group-1, .nyt-emoji.group-1, .help-emoji.group-1 {
+    background-color: #9fc5e8 !important;
+}
+.answer-banner.group-2, .nyt-emoji.group-2, .help-emoji.group-2 {
+    background-color: #3d85c6 !important;
+    color: white !important;
+}
+.answer-banner.group-3, .nyt-emoji.group-3, .help-emoji.group-3 {
+    background-color: #0b5394 !important;
+    color: white !important;
+}
