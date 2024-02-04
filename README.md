@@ -5,7 +5,7 @@ Chrome extension to make the colors on the NYTimes Connection puzzle more intuit
 ![NYTimes Connections Color Fixer](logos/logo.png "Color Fixer")
 
 ## Installation
-Grab it from the Chrome Store (search `NYT Connections Color Fixer`).
+Grab it from the [Chrome Store](https://chromewebstore.google.com/detail/iobmefphfghmcobejikblclbjdcghoch) (search `NYT Connections Color Fixer`).
 
 ## Screenshots
 | Solved Puzzle                                           | Results Screen                                                |
